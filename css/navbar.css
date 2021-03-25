@@ -55,7 +55,7 @@ display: none;
   margin-left: 200px;
   margin-right: 200px;
 }
-@media screen and (max-width: 925px) {
+@media screen and (max-width: 920px) {
   .logo{
       display: block;
   }
@@ -72,7 +72,7 @@ ul > li:first-of-type{
 }
 
 
-@media screen and (max-width: 920px) {
+@media  (max-width: 920px) {
   .header{
     height: 3.5rem;
   }
@@ -91,7 +91,7 @@ display: none;
       margin-bottom: -10px;
 }
 }
-@media screen and (max-width:768px) {
+@media  (max-width:768px) {
   header{
       height: 3.5rem;
     }
@@ -103,26 +103,26 @@ display: none;
       display: flex;
   }
 }
-@media screen and (max-width: 560px) {
+@media (max-width: 560px) {
   header{
     height: 3rem;
   }
 .icon{
   padding: 0;
   margin: 0;
-  margin-left: 450px;
+  margin-left: 360px;
   margin-top: -25px;
   display: flex;
 }
 }
-@media screen and (max-width:420px) {
+@media  (max-width:420px) {
   header{
     height: 3rem;
   }
   .icon{
     padding: 0;
     margin: 0;
-    margin-left: 270px;
+    margin-left: 250px;
     margin-top: -25px;
     display: flex;
   }
